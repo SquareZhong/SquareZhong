@@ -15,7 +15,7 @@
   />
 <img 
   height=165
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=squarezhong&layout=compact&theme=merko"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=squarezhong&layout=compact&theme=merko&exclude_repo=notion-blog"
   />
 <p>
   
