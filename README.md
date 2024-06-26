@@ -1,8 +1,8 @@
 > 大梦一场
-- Software & Cybernetics
-- SUSTech undergraduate
-  
-- [ ] Building personal blog...
+- :hatching_chick: Software & Cybernetics & Robotics
+- :mushroom: SUSTech undergraduate majoring in Automation
+- :octocat: Contact me at squarezhong@outlook.com
+- :mortar_board: Applying for a master's program in HK & SG & Europe
     
 <p>
 <img 
