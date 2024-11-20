@@ -1,4 +1,5 @@
-> 大梦一场
+### Hi there 👋
+
 - :hatching_chick: Cybernetics & Robotics
 - :mushroom: SUSTech undergraduate majoring in Automation
 - :octocat: Contact me at squarezhong@outlook.com
